@@ -1,0 +1,6 @@
+{
+  "name": "StockLens",
+  "description": "Futuristic AI-powered financial intelligence, Simply Wall St snowflake analytics, live US stock quotes & portfolio tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
